@@ -1,24 +1,23 @@
-
 {
   "name": "be.romualdreynaud.packagedroneracingtest",
   "displayName": "PackageDroneRacingTest",
   "version": "0.0.1",
   "unity": "2018.1",
   "unityRelease": "",
-  "description": "Quick tool to send and received UDP message.",
+  "description": "",
   "keywords": [ "Script", "Tool" ],
-  "dependencies": {},
   "relatedPackages": {},
   "samples": [],
   "author": {
-    "name": "Eloi Stree",
-    "mail": ""
+    "name": "Romuald Reynaud",
+    "mail": "",
+    "url": "https://github.com/SpardTechs"
   },
   "repository": {
     "type": "Git",
-    "url": "https://gitlab.com/EloiStree/2020_11_29_UDPThreadSender.git",
+    "url": "",
     "footprint": "",
-    "revision": "7a36837fe8a85282606d4c367ae381e1ee4bf6a7"
+    "revision": ""
   },
   "category": "Script"
 } 
